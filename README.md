@@ -1,7 +1,6 @@
 FIRST-VCS-CLASS-CODE
 This is for SQI Student learning Version Control System to Practice
 
-
 "FIRST-VCS-CLASS-CODE" represents a significant milestone in the journey of embracing version control systems (VCS) within the realm of software development. This codebase is the inaugural creation that introduces individuals to the fundamental concepts and practices of version control, heralding the initiation of a structured approach to collaborative coding.
 
 The code within "FIRST-VCS-CLASS-CODE" serves as a practical embodiment of the principles discussed in the initial VCS class. It encompasses foundational elements such as branching, committing, merging, and annotating, enabling learners to comprehensively grasp the intricacies of tracking changes and collaborating seamlessly.
