@@ -1,4 +1,4 @@
-#FIRST-VCS-CLASS-CODE
+FIRST-VCS-CLASS-CODE
 This is for SQI Student learning Version Control System to Practice
 
 
